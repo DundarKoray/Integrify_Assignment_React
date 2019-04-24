@@ -1,1 +1,1 @@
-[demo] (https://dundarkoray.github.io/Integrify_Assignment_React/.)
+[demo](https://dundarkoray.github.io/Integrify_Assignment_React/.)
